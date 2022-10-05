@@ -6,3 +6,4 @@ PyYAML~=5.1
 six~=1.13
 lxml
 sqlalchemy
+markupsafe==2.0.1
